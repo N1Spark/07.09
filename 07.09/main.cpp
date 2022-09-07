@@ -18,6 +18,14 @@ public:
 	}
 };
 
+class Person
+{
+	string name;
+	int age;
+public:
+	
+};
+
 int main()
 {
 
