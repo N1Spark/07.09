@@ -71,4 +71,9 @@ int main()
 	Person obj1;
 	Point obj2;
 	int mas[5]{ 1,2,3,4,5 };
+	for (int i = 0; i < 5; i++)
+	{
+		cout << mas[i] << "\t";
+	}
+	cout << endl;
 }
