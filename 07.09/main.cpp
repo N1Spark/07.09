@@ -34,6 +34,14 @@ public:
 	}
 };
 
+class Stident
+{
+	string name;
+	int age;
+public:
+
+};
+
 int main()
 {
 
