@@ -47,8 +47,15 @@ public:
 	{
 		name = n;
 		age = a;
-
 	}
+};
+
+class Academy
+{
+	Student* group;
+	int count;
+public:
+	Academy(){}
 };
 
 int main()
